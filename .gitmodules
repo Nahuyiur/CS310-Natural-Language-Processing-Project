@@ -1,0 +1,3 @@
+[submodule "FourierGPT"]
+	path = FourierGPT
+	url = https://github.com/CLCS-SUSTech/FourierGPT.git
