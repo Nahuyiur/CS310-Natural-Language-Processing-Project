@@ -6,6 +6,39 @@ This project compares **supervised learning** (text-based and spectrum-based) an
 
 **Authors**: Lou Yibin (12310513), Rui Yuhan (12310520)
 
+## Results
+### Three Method in domain
+<p align="center">
+  <img src="images/Three Method in domain Accuracy(Eng).png" alt="Result 1" width="300"/>
+  <img src="images/Three Method in domain Accuracy(Zh).png" alt="Result 2" width="300"/>
+</p>
+
+
+### Three Method out of domain
+<p align="center">
+  <img src="images/Three Method out of domain Accuracy(Eng).png" alt="Result 1" width="300"/>
+  <img src="images/Three Method out of domain Accuracy(Zh).png" alt="Result 2" width="300"/>
+</p>
+
+### Extended Evaluation (Mixed Domain & One-Shot)
+<!-- 第一行 -->
+<p align="center">
+  <img src="images/Overal evaluation in mixed domain(Eng) nll.png" alt="Result 1" width="200"/>
+  <img src="images/Overal evaluation in mixed domain(Eng).png" alt="Result 2" width="200"/>
+</p>
+
+<!-- 第二行 -->
+<p align="center">
+  <img src="images/Overal evaluation in mixed domain(Zh) nll.png" alt="Result 3" width="200"/>
+  <img src="images/Overal evaluation in mixed domain(Zh).png" alt="Result 4" width="200"/>
+</p>
+
+<!-- 第三行 -->
+<p align="center">
+  <img src="images/Overal evaluation in one-shot models(Eng).png" alt="Result 5" width="200"/>
+  <img src="images/Overal evaluation in one-shot models(Zh).png" alt="Result 6" width="200"/>
+</p>
+
 ## Datasets
 
 - **English**:
